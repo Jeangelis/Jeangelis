@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Jeangelis Silva Santos
+# 👋 Olá! Eu sou o Jeangelis!
 
 Sou **Engenheiro Florestal** com doutorado em Ciências Florestais pela UFES e atualmente me especializo em **Ciência de Dados** com foco em aplicações práticas de machine learning, sensoriamento remoto, previsão e análise de dados. 
 
@@ -47,23 +47,16 @@ Tenho experiência prática na criação de modelos de previsão com dados de sa
 
 ## 📚 Publicações Científicas
 
-### 🧾 Como autor principal:
+Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal, inteligência artificial aplicada à previsão de produtividade florestal e planejamento territorial**. Dentre os destaques:
 
-- **Predicting eucalyptus plantation growth and yield using Landsat imagery in Minas Gerais, Brazil**  
-  *Ecological Informatics*, v.75, 2023  
-- **Delimitation of ecological corridors in the Brazilian Atlantic Forest**  
-  *Ecological Indicators*, v.88, 2018  
-- **Método de amostragem de Bitterlich: uma alternativa de inventário florestal para pequenas propriedades rurais fomentadas**  
-  *Agrária (Recife. Online)*, v.11, 2016  
+- 🌍 *Predicting eucalyptus plantation growth and yield using Landsat imagery in Minas Gerais, Brazil* – *Ecological Informatics* (2023)  
+- 📈 *Prognosis of forest production using machine learning techniques* – *Information Processing in Agriculture* (2023)  
+- 🔥 *Mathematical programming and geotechnologies applied to allocation of forest fire detection towers* – *Stochastic Environmental Research and Risk Assessment* (2024)  
+- 🪓 *Machine learning techniques to estimate mechanised forest cutting productivity* – *Southern Forests* (2021)  
+- 🌱 *Delimitation of ecological corridors in the Brazilian Atlantic Forest* – *Ecological Indicators* (2018)  
+- 🌲 *Método de amostragem de Bitterlich: uma alternativa de inventário florestal para pequenas propriedades rurais fomentadas* – *Agrária (Recife. Online)* (2016)
 
-### 🤝 Como coautor:
-
-- *Mathematical programming and geotechnologies applied to allocation of forest fire detection towers*  
-  *Stochastic Environmental Research And Risk Assessment*, v.10, 2024  
-- *Machine learning techniques to estimate mechanised forest cutting productivity*  
-  *Southern Forests*, v.83, 2021  
-
-Mais publicações no meu [Currículo Lattes](http://lattes.cnpq.br/8339532503141256)
+🔗 **📄 [Currículo Lattes](http://lattes.cnpq.br/8339532503141256)** — veja a lista completa de publicações
 
 ---
 
