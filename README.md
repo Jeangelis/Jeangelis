@@ -37,7 +37,7 @@ Tenho experiência prática na criação de modelos de previsão com dados de sa
 ## 🎓 Formação
 
 - Doutorado em Ciências Florestais – UFES (2020)  
-  *Título: Predição e projeção do crescimento e da produção de eucalipto com imagens multiespectrais*  
+  *Título: Predição e projeção do crescimento e da produção de plantios de eucalipto por meio de imagens multiespectrais de média resolução espacial*  
 - Mestrado em Ciências Florestais – UFES (2014)
 - *Título: Estratificação de florestas de eucalipto com base na forma do fuste das árvores*    
 - Graduação em Engenharia Florestal – UFES (2012)  
