@@ -62,7 +62,7 @@ Sou autor e coautor de diversos artigos científicos publicados em periódicos n
 
 ## 🛰️ Projetos em destaque
 
-- Adicionar os projetos do portfólio
+- [Análise de dados de Ecommerce](https://github.com/Jeangelis/EDA-ecommerce)
 
 ---
 
