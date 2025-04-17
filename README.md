@@ -62,7 +62,7 @@ Sou autor e coautor de diversos artigos científicos publicados em periódicos n
 
 ## 🛰️ Projetos em destaque
 
-- [Análise de dados de Ecommerce](https://github.com/Jeangelis/EDA-ecommerce)
+- 🛒 **Análise Exploratória de Dados (EDA) com base de e-commerce**: identifiquei padrões de compra, comportamento do cliente e principais fatores que influenciam o tempo de entrega, usando visualizações e estatísticas descritivas. [Veja o projeto aqui](https://github.com/Jeangelis/eda-ecommerce)
 
 ---
 
