@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Jeangelis!
 
-Sou **Engenheiro Florestal** com doutorado em Ciências Florestais pela UFES e atualmente me especializo em **Ciência de Dados** com foco em aplicações práticas de machine learning, sensoriamento remoto, previsão e análise de dados. 
+Sou **Engenheiro Florestal** com doutorado em Ciências Florestais pela UFES e atualmente me especializo em **Ciência de Dados** com foco em aplicações práticas de machine learning, previsão e análise de dados. 
 
 Após mais de uma década atuando em pesquisas científicas e projetos no setor florestal, decidi migrar para o mundo dos dados e unir minha experiência técnica com ferramentas modernas de análise, visualização e predição.
 
@@ -10,14 +10,14 @@ Após mais de uma década atuando em pesquisas científicas e projetos no setor 
 
 Transformar **dados em decisões estratégicas**. Busco desenvolver soluções analíticas robustas que sejam compreensíveis mesmo por públicos não técnicos, sempre com foco em **redução de custos, eficiência operacional e inovação tecnológica**.
 
-Tenho experiência prática na criação de modelos de previsão com dados de satélite e técnicas de machine learning, tendo atuado com empresas do setor florestal para estimar volume de madeira e o crescimento de florestas com alta precisão e reduzindo custos operacionais.
+Tenho experiência prática na criação de modelos de previsão com dados de satélite e técnicas de machine learning, tendo atuado com empresas do setor florestal para estimar volume de madeira e o crescimento de florestas com alta precisão, sempre visando reduzir custos operacionais.
 
 ---
 
 ## 💼 Experiência
 
 - Técnico em Fiscalização e Desenvolvimento Agropecuário – *IDAF/ES* (2012 – atual)
-- Coordenador do projeto de monitoramento de colheita florestal via satélite – *Secretaria de Agricultura do ES* (2021 – 2023)
+- Coordenador do projeto "Monitoramento e fiscalização de áreas de colheita de florestas plantadas por imagens de satélite" – *Secretaria de Agricultura do ES* (2021 – 2023)
 - Consultor em modelagem com IA e sensoriamento remoto para empresas florestais (2021)
 - Professor de Ensino Superior – *UniFacig* (2015 – 2016)
 
