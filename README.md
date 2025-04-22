@@ -45,6 +45,13 @@ Tenho experiência prática na criação de modelos de previsão com dados de sa
 
 ---
 
+## 🛰️ Projetos em destaque
+
+- 🛒 **Análise Exploratória de Dados (EDA) com base de e-commerce**: identifiquei padrões de compra, comportamento do cliente e principais fatores que influenciam o tempo de entrega, usando visualizações e estatísticas descritivas. [Veja o projeto aqui](https://github.com/Jeangelis/eda-ecommerce)
+- 💳 **FraudSpotter: detecção inteligente de fraudes com análise de custos**: explorei a detecção de fraudes em transações financeiras utilizando técnicas de balanceamento de dados e o algoritmo XGBoost com foco na redução de custos operacionais. [Veja o projeto aqui](https://github.com/Jeangelis/FraudSpotter)
+
+---
+
 ## 📚 Publicações Científicas
 
 Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal, inteligência artificial aplicada à previsão de produtividade florestal e planejamento territorial**. Dentre os destaques:
@@ -58,12 +65,6 @@ Sou autor e coautor de diversos artigos científicos publicados em periódicos n
 
 🔗 **📄 [Currículo Lattes](http://lattes.cnpq.br/8339532503141256)** — veja a lista completa de publicações
 
----
-
-## 🛰️ Projetos em destaque
-
-- 🛒 **Análise Exploratória de Dados (EDA) com base de e-commerce**: identifiquei padrões de compra, comportamento do cliente e principais fatores que influenciam o tempo de entrega, usando visualizações e estatísticas descritivas. [Veja o projeto aqui](https://github.com/Jeangelis/eda-ecommerce)
-- 💳 **FraudSpotter: detecção inteligente de fraudes com análise de custos**: explorei a detecção de fraudes em transações financeiras utilizando técnicas de balanceamento de dados e o algoritmo XGBoost com foco na redução de custos operacionais. [Veja o projeto aqui](https://github.com/Jeangelis/FraudSpotter)
 ---
 
 ## 🌍 Idiomas
