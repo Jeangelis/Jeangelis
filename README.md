@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Jeangelis!
 
-Sou **Engenheiro Florestal** com doutorado em Ciências Florestais pela UFES e atualmente me especializo em **Ciência de Dados** com foco em aplicações práticas de machine learning, previsão e análise de dados. 
+Sou **Engenheiro Florestal** com **doutorado em Ciências Florestais** pela UFES, com ampla experiência em **análises estatísticas, técnicas de regressão linear, regressão não linear e machine learning**. Minha trajetória acadêmica e profissional sempre esteve profundamente ligada ao **trabalho com dados**, desde projetos de iniciação científica, passando pelo mestrado e doutorado, até projetos aplicados em empresas e setor público.
 
-Após mais de uma década atuando em pesquisas científicas e projetos no setor florestal, decidi migrar para o mundo dos dados e unir minha experiência técnica com ferramentas modernas de análise, visualização e predição.
+Após mais de uma década atuando em pesquisas científicas e projetos no setor florestal, estou **expandindo minha atuação** e aplicando meu conhecimento em modelagem, análise de dados e machine learning a novos setores e desafios.
 
 ---
 
@@ -10,15 +10,13 @@ Após mais de uma década atuando em pesquisas científicas e projetos no setor 
 
 Transformar **dados em decisões estratégicas**. Busco desenvolver soluções analíticas robustas que sejam compreensíveis mesmo por públicos não técnicos, sempre com foco em **redução de custos, eficiência operacional e inovação tecnológica**.
 
-Tenho experiência prática na criação de modelos de previsão com dados de satélite e técnicas de machine learning, tendo atuado com empresas do setor florestal para estimar volume de madeira e o crescimento de florestas com alta precisão, sempre visando reduzir custos operacionais.
-
 ---
 
 ## 💼 Experiência
 
 - Técnico em Fiscalização e Desenvolvimento Agropecuário – *IDAF/ES* (2012 – atual)
+- Consultor em modelagem com *Machine Learning* e sensoriamento remoto para empresas florestais (2021 - atual)
 - Coordenador do projeto "Monitoramento e fiscalização de áreas de colheita de florestas plantadas por imagens de satélite" – *Secretaria de Agricultura do ES* (2021 – 2023)
-- Consultor em modelagem com IA e sensoriamento remoto para empresas florestais (2021)
 - Professor de Ensino Superior – *UniFacig* (2015 – 2016)
 
 ---
@@ -29,7 +27,7 @@ Tenho experiência prática na criação de modelos de previsão com dados de sa
 - **Bibliotecas e Frameworks**: Pandas, NumPy, Scikit-learn, XGBoost, Keras, TensorFlow, Prophet, Statsmodels  
 - **Ferramentas**: Power BI, Jupyter, GitHub, VS Code
 - **Banco de Dados**: PostgreSQL, MySQL  
-- **Modelos**: Regressão linear e não linear, Séries Temporais, Redes Neurais, Random Forest, XGBoost e SMOTE  
+- **Modelos**: Regressão linear e não linear, Redes Neurais, Random Forest, XGBoost e Prophet  
 - **APIs e MLOps**: FastAPI, consumo de APIs REST e SOAP, deploy de modelos com Flask
 
 ---
@@ -54,7 +52,7 @@ Tenho experiência prática na criação de modelos de previsão com dados de sa
 
 ## 📚 Publicações Científicas
 
-Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal, inteligência artificial aplicada à previsão de produtividade florestal e planejamento territorial**. Dentre os destaques:
+Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal e inteligência artificial aplicada ao setor florestal**. Dentre os destaques:
 
 - 🌍 *Predicting eucalyptus plantation growth and yield using Landsat imagery in Minas Gerais, Brazil* – *Ecological Informatics* (2023)  
 - 📈 *Prognosis of forest production using machine learning techniques* – *Information Processing in Agriculture* (2023)  
@@ -79,7 +77,6 @@ Sou autor e coautor de diversos artigos científicos publicados em periódicos n
 
 - 📧 jeangelis@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeangelis/)  
-- 🐙 [GitHub](https://github.com/Jeangelis)
 
 ---
 
