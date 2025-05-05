@@ -4,7 +4,7 @@ Sou Engenheiro Florestal, doutor em Ciências Florestais, com ampla experiência
 
 Após mais de uma década atuando no setor florestal, estou **expandindo minha atuação** a novos setores e desafios. O meu foco é desenvolver soluções robustas que sejam compreensíveis mesmo por públicos não técnicos, sempre com foco em **redução de custos, eficiência operacional e inovação tecnológica**.
 
----
+Este perfil será usado para compartilhar meus projetos em ciência de dados, análise de dados e machine learning. Meu objetivo é transformar este espaço em um portfólio técnico, onde posso demonstrar na prática minhas habilidades e experiências com dados.
 
 ## 📊 Projetos em destaque
 
