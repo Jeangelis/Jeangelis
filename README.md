@@ -23,7 +23,7 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 
 Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal e machine learning aplicado ao setor florestal**. Dentre os destaques:
 
-- 🌍 *Predicting eucalyptus plantation growth and yield using Landsat imagery in Minas Gerais, Brazil* – *[Ecological Informatics](https://www.sciencedirect.com/science/article/abs/pii/S1574954123001498)* (2023)  
+- 🌍 *[Predicting eucalyptus plantation growth and yield using Landsat imagery in Minas Gerais, Brazil](https://www.sciencedirect.com/science/article/abs/pii/S1574954123001498)* – *Ecological Informatics* (2023)  
 - 📈 *Prognosis of forest production using machine learning techniques* – *[Information Processing in Agriculture](https://www.sciencedirect.com/science/article/pii/S2214317321000780)* (2023)  
 - 🔥 *Mathematical programming and geotechnologies applied to allocation of forest fire detection towers* – *[Stochastic Environmental Research and Risk Assessment](https://link.springer.com/article/10.1007/s00477-024-02831-y)* (2024)  
 - 🪓 *Machine learning techniques to estimate mechanised forest cutting productivity* – *[Southern Forests](https://www.tandfonline.com/doi/abs/10.2989/20702620.2021.1994342)* (2021)  
@@ -42,5 +42,3 @@ Sou autor e coautor de diversos artigos científicos publicados em periódicos n
 
 ✨ Obrigado por visitar meu perfil! Fique à vontade para explorar os projetos ou me chamar para trocar ideias!
 
----
-![Jeangelis' GitHub stats](https://github-readme-stats.vercel.app/api?username=jeangelis&show_icons=true&theme=dark)
