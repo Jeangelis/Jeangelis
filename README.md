@@ -9,7 +9,7 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 ## 💼 Experiência
 
 - Técnico em fiscalização e desenvolvimento agropecuário – *IDAF/ES* (2012 – atual)
-- Consultor em modelagem preditiva e geotecnologias para o setor florestal (2021 - atual)
+- Consultor em modelagem preditiva e geotecnologias - *Empresas do setor florestal* (2021 - atual)
 - Coordenador do projeto "Monitoramento e fiscalização de áreas de colheita de florestas plantadas por imagens de satélite" – *Secretaria de Agricultura do ES* (2021 – 2023)
 - Professor de Ensino Superior – *UniFacig* (2015 – 2016)
 
