@@ -19,14 +19,15 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 
 [![FraudSpotter](https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=FraudSpotter&theme=dark)](https://github.com/Jeangelis/FraudSpotter)
 
-- 🛒 [**Análise Exploratória de Dados (EDA) com base de e-commerce**](https://github.com/Jeangelis/eda-ecommerce): identifiquei padrões de compra, comportamento do cliente e principais fatores que influenciam o tempo de entrega, usando visualizações e estatísticas descritivas.
-- 💳 [**FraudSpotter: detecção inteligente de fraudes com análise de custos**](https://github.com/Jeangelis/FraudSpotter): explorei a detecção de fraudes em transações financeiras utilizando técnicas de balanceamento de dados e o algoritmo XGBoost com foco na redução de custos operacionais.
-
----
-
 ## 📚 Publicações Científicas
 
-Autor de artigos nas áreas de machine learning aplicado ao setor florestal, sensoriamento remoto e modelagem preditiva.
+Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal e machine learning aplicado ao setor florestal**. Dentre os destaques:
+
+- 🌍 *Predicting eucalyptus plantation growth and yield using Landsat imagery in Minas Gerais, Brazil* – *[Ecological Informatics](https://www.sciencedirect.com/science/article/abs/pii/S1574954123001498)* (2023)  
+- 📈 *Prognosis of forest production using machine learning techniques* – *[Information Processing in Agriculture](https://www.sciencedirect.com/science/article/pii/S2214317321000780)* (2023)  
+- 🔥 *Mathematical programming and geotechnologies applied to allocation of forest fire detection towers* – *[Stochastic Environmental Research and Risk Assessment](https://link.springer.com/article/10.1007/s00477-024-02831-y)* (2024)  
+- 🪓 *Machine learning techniques to estimate mechanised forest cutting productivity* – *[Southern Forests](https://www.tandfonline.com/doi/abs/10.2989/20702620.2021.1994342)* (2021)  
+- 🌲 *Delimitation of ecological corridors in the Brazilian Atlantic Forest* – *[Ecological Indicators](https://www.sciencedirect.com/science/article/abs/pii/S1470160X18300128)* (2018)  
 
 🔗 Veja a lista completa de publicações no meu [Currículo Lattes](http://lattes.cnpq.br/8339532503141256).
 
