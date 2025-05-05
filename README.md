@@ -1,14 +1,8 @@
 # 👋 Olá! Eu sou o Jeangelis!
 
-Sou **Engenheiro Florestal** com **doutorado em Ciências Florestais** pela UFES, com ampla experiência em **análises estatísticas, técnicas de regressão linear, regressão não linear e machine learning**. Minha trajetória acadêmica e profissional sempre esteve profundamente ligada ao **trabalho com dados**, desde projetos de iniciação científica, passando pelo mestrado e doutorado, até projetos aplicados em empresas e setor público.
+Sou Engenheiro Florestal, doutor em Ciências Florestais, com ampla experiência em **análises estatísticas, técnicas de regressão linear, regressão não linear e machine learning**. Minha trajetória acadêmica e profissional sempre esteve profundamente ligada ao **trabalho com dados**, desde pesquisas científicas até projetos aplicados em empresas e setor público.
 
-Após mais de uma década atuando em pesquisas científicas e projetos no setor florestal, estou **expandindo minha atuação** e aplicando meu conhecimento em modelagem, análise de dados e machine learning a novos setores e desafios.
-
----
-
-## 🚀 O que me move
-
-Transformar **dados em decisões estratégicas**. Busco desenvolver soluções analíticas robustas que sejam compreensíveis mesmo por públicos não técnicos, sempre com foco em **redução de custos, eficiência operacional e inovação tecnológica**.
+Após mais de uma década atuando no setor florestal, estou **expandindo minha atuação** a novos setores e desafios. O meu foco é desenvolver soluções robustas que sejam compreensíveis mesmo por públicos não técnicos, sempre com foco em **redução de custos, eficiência operacional e inovação tecnológica**.
 
 ---
 
@@ -26,6 +20,7 @@ Transformar **dados em decisões estratégicas**. Busco desenvolver soluções a
 ## 📚 Publicações Científicas
 
 Autor de artigos nas áreas de machine learning aplicado ao setor florestal, sensoriamento remoto e modelagem preditiva.
+
 🔗 Veja a lista completa de publicações no meu [Currículo Lattes](http://lattes.cnpq.br/8339532503141256).
 
 ---
