@@ -45,6 +45,9 @@ Transformar **dados em decisões estratégicas**. Busco desenvolver soluções a
 
 ## 📊 Projetos em destaque
 
+[![EDA - Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce)](https://github.com/Jeangelis/eda-ecommerce)
+
+
 - 🛒 [**Análise Exploratória de Dados (EDA) com base de e-commerce**](https://github.com/Jeangelis/eda-ecommerce): identifiquei padrões de compra, comportamento do cliente e principais fatores que influenciam o tempo de entrega, usando visualizações e estatísticas descritivas.
 - 💳 [**FraudSpotter: detecção inteligente de fraudes com análise de custos**](https://github.com/Jeangelis/FraudSpotter): explorei a detecção de fraudes em transações financeiras utilizando técnicas de balanceamento de dados e o algoritmo XGBoost com foco na redução de custos operacionais.
 
