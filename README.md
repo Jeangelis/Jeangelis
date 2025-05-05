@@ -84,3 +84,6 @@ Sou autor e coautor de diversos artigos científicos publicados em periódicos n
 ---
 
 ✨ Obrigado por visitar meu perfil! Fique à vontade para explorar os projetos ou me chamar para trocar ideias!
+
+---
+![Jeangelis' GitHub stats](https://github-readme-stats.vercel.app/api?username=jeangelis&show_icons=true&theme=dark)
