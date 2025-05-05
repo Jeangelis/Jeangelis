@@ -6,6 +6,13 @@ Após mais de uma década atuando no setor florestal, estou **expandindo minha a
 
 Este perfil será usado para compartilhar meus projetos em ciência de dados, análise de dados e machine learning. Meu objetivo é transformar este espaço em um portfólio técnico, onde posso demonstrar na prática minhas habilidades e experiências com dados.
 
+## 💼 Experiência
+
+- Técnico em fiscalização e desenvolvimento agropecuário – *IDAF/ES* (2012 – atual)
+- Consultor em modelagem preditiva e geotecnologias para o setor florestal (2021 - atual)
+- Coordenador do projeto "Monitoramento e fiscalização de áreas de colheita de florestas plantadas por imagens de satélite" – *Secretaria de Agricultura do ES* (2021 – 2023)
+- Professor de Ensino Superior – *UniFacig* (2015 – 2016)
+
 ## 📊 Projetos em destaque
 
 [![EDA - Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce&theme=dark)](https://github.com/Jeangelis/eda-ecommerce)
