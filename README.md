@@ -14,7 +14,7 @@ Transformar **dados em decisões estratégicas**. Busco desenvolver soluções a
 
 ## 📊 Projetos em destaque
 
-[![EDA - Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce)](https://github.com/Jeangelis/eda-ecommerce)
+[![EDA - Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce&theme=dark)](https://github.com/Jeangelis/eda-ecommerce)
 
 
 - 🛒 [**Análise Exploratória de Dados (EDA) com base de e-commerce**](https://github.com/Jeangelis/eda-ecommerce): identifiquei padrões de compra, comportamento do cliente e principais fatores que influenciam o tempo de entrega, usando visualizações e estatísticas descritivas.
