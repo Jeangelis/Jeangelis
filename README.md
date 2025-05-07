@@ -43,6 +43,7 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 </table>
 </div>
 
+
 ## 📚 Publicações Científicas
 
 Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal e machine learning aplicado ao setor florestal**. Dentre os destaques:
