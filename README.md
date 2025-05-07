@@ -15,13 +15,33 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 
 ## 📊 Projetos em destaque
 
-<div align="center">
-  
-| [![EDA - Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce&theme=dark)](https://github.com/Jeangelis/eda-ecommerce) | [![FraudSpotter](https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=FraudSpotter&theme=dark)](https://github.com/Jeangelis/FraudSpotter) |
-|:--:|:--:|
-
+<div align='center'>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Jeangelis/eda-ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Jeangelis/FraudSpotter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=FraudSpotter&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Jeangelis/Sales_forecasting">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=Sales_forecasting&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <!-- Espaço reservado para o próximo projeto -->
+      <!-- <a href="..."><img src="..." /></a> -->
+    </td>
+  </tr>
+</table>
 </div>
-
 
 ## 📚 Publicações Científicas
 
