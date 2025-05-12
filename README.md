@@ -25,7 +25,7 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
     </td>
     <td>
       <a href="https://github.com/Jeangelis/FraudSpotter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=FraudSpotter&theme=dark" />
+        <img src="www.google.com" />
       </a>
     </td>
   </tr>
