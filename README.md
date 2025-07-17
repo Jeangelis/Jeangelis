@@ -19,8 +19,8 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Jeangelis/eda-ecommerce">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce&theme=dark" />
+      <a href="https://github.com/Jeangelis/Enhanced_forest_inventory">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=Enhanced_forest_inventory&theme=dark" />
       </a>
     </td>
     <td>
@@ -36,8 +36,9 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
       </a>
     </td>
     <td>
-      <!-- Espaço reservado para o próximo projeto -->
-      <!-- <a href="..."><img src="..." /></a> -->
+      <a href="https://github.com/Jeangelis/eda-ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeangelis&repo=eda-ecommerce&theme=dark" />
+      </a>
     </td>
   </tr>
 </table>
