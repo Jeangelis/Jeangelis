@@ -9,7 +9,7 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 ## 💼 Experiência
 
 - Técnico em fiscalização e desenvolvimento agropecuário – *IDAF/ES* (2011 – atual)
-- Cientista de dados - *Consultoria para empresas do setor florestal* (2020 - atual)
+- Cientista de dados - *Consultor independente para empresas do setor florestal* (2020 - atual)
 - Coordenador do projeto "Monitoramento e fiscalização de áreas de colheita de florestas plantadas por imagens de satélite" – *Secretaria de Agricultura do ES* (2021 – 2023)
 - Professor de Ensino Superior – *UniFacig* (2015 – 2016)
 
