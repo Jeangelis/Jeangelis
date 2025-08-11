@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Jeangelis!
 
-Sou Engenheiro Florestal, doutor em Ciências Florestais, com ampla experiência em **machine learning, técnicas de regressão linear, regressão não linear e análises estatísticas**. Minha trajetória acadêmica e profissional sempre esteve profundamente ligada ao **trabalho com dados**, desde pesquisas científicas até projetos aplicados em empresas e setor público.
+Sou Engenheiro Florestal, doutor em Ciências Florestais, com ampla experiência em **machine learning, modelagem preditiva, técnicas de regressão linear e não-linear e análises estatísticas**. Minha trajetória acadêmica e profissional sempre esteve profundamente ligada ao **trabalho com dados**, desde pesquisas científicas até projetos aplicados em empresas e setor público.
 
 Após mais de uma década atuando no setor florestal, estou **expandindo minha atuação** a novos setores e desafios. O meu foco é desenvolver soluções robustas que sejam compreensíveis mesmo por públicos não técnicos, sempre com foco em **redução de custos, eficiência operacional e inovação tecnológica**.
 
