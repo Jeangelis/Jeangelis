@@ -46,7 +46,7 @@ Este perfil será usado para compartilhar meus projetos em ciência de dados, an
 
 ## 📚 Publicações Científicas
 
-Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **sensoriamento remoto, modelagem florestal e machine learning aplicado ao setor florestal**. Dentre os destaques:
+Sou autor e coautor de diversos artigos científicos publicados em periódicos nacionais e internacionais nas áreas de **machine learning, modelagem preditiva e sensoriamento remoto aplicado ao setor florestal**. Dentre os destaques:
 
 - 🌍 *[Predicting eucalyptus plantation growth and yield using Landsat imagery in Minas Gerais, Brazil](https://www.sciencedirect.com/science/article/abs/pii/S1574954123001498)* – *Ecological Informatics* (2023)  
 - 📈 *[Prognosis of forest production using machine learning techniques](https://www.sciencedirect.com/science/article/pii/S2214317321000780)* – *Information Processing in Agriculture* (2023)  
